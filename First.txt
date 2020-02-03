@@ -1,2 +1,4 @@
 This is line 1 of the file.
 This is line 2 of the file.
+This is line 3 added by User2.
+
